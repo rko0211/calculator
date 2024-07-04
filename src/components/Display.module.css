@@ -1,0 +1,14 @@
+.display {
+  margin: 20px;
+  height: 30px;
+  background-color: aliceblue;
+  text-align: right;
+  border-width: 2px;
+  font-size: 20px;
+  padding: 10px;
+  width: 180px;
+
+  &:focus {
+    outline: none;
+  }
+}
